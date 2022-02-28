@@ -1,0 +1,817 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ansvver of the Corporation of Moniers in the mint, at the Tower of London, to two false and scandalous libells printed at London, and lately come forth without date. The first intituled, The humble representation of Peter Blondeau, as a warning touching severall disorders hapning by money ill-favouredly coyned, and the only means to prevent them. The second intituled, A most humble memorandum from Peter Blondeau. Which not only intends maliciously to sandall [sic] us the Corporation of Moniers, of the Common-wealth of England : but also most falsly to imprint in the hearts and mindes of all people in Christendome, and more especially the good people under the obedience of the Parliament of England; that ... the moneys of the of this Common-Wealth ... are not justly made ... Set forth to undeceive all the good people that have seen or read the said Peter Blondeau's false and scandalous libells.</title>
+            <author>Corporation of Moniers in the Mint (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95986</idno>
+            <idno type="STC">Wing V579</idno>
+            <idno type="STC">Thomason E1070_2</idno>
+            <idno type="STC">ESTC R208184</idno>
+            <idno type="EEBO-CITATION">99867158</idno>
+            <idno type="PROQUEST">99867158</idno>
+            <idno type="VID">119450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119450)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1070[2], 248:E1070[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ansvver of the Corporation of Moniers in the mint, at the Tower of London, to two false and scandalous libells printed at London, and lately come forth without date. The first intituled, The humble representation of Peter Blondeau, as a warning touching severall disorders hapning by money ill-favouredly coyned, and the only means to prevent them. The second intituled, A most humble memorandum from Peter Blondeau. Which not only intends maliciously to sandall [sic] us the Corporation of Moniers, of the Common-wealth of England : but also most falsly to imprint in the hearts and mindes of all people in Christendome, and more especially the good people under the obedience of the Parliament of England; that ... the moneys of the of this Common-Wealth ... are not justly made ... Set forth to undeceive all the good people that have seen or read the said Peter Blondeau's false and scandalous libells.</title>
+                  <author>Corporation of Moniers in the Mint (London, England)</author>
+                  <author>Violet, Thomas, fl. 1634-1662.</author>
+               </titleStmt>
+               <extent>[2], 41, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Corporation of Moniers,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Thomas Violet. Cf. Wing.</note>
+                  <note>A response to two pamphlets by Peter Blondeau.</note>
+                  <note>Includes the names of all the moniers and their laborers.</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and in the University of London (Goldsmiths'-Kress library of economic literature).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blondeau, Peter --  Early works to 1800.</term>
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Precious metals --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119450:1" rendition="simple:additions"/>
+            <p>THE ANSWER OF The Corporation of Moniers in the Mint, at the Tower of <hi>London,</hi> to two falſe and ſcandalous Libells printed at <hi>London,</hi> and lately come forth without date.</p>
+            <p>THE FIRST INTITULED, <hi>The humble Repreſentation of</hi> Peter Blondeau, <hi>as a warning touching ſeverall diſorders hapning by Money ill-favouredly coyned, and the only means to prevent them.</hi>
+            </p>
+            <p>THE SECOND INTITULED, <hi>A moſt humble Memorandum from</hi> Peter Blondeau.</p>
+            <p>Which not only intends maliciouſly to ſandall Us the Corporation of Moniers, of the Common-Wealth of <hi>England:</hi> But alſo moſt falſly to imprint in the hearts and mindes of all People in Chriſtendome, and more eſpecially the good People under the obedience of the Parliament of <hi>England;</hi> That (by Us the Cor<g ref="char:EOLhyphen"/>poration of Moniers) the Moneys of this Common-Wealth, both for Gold and Silver, are not juſtly made, according to Our Indenture.</p>
+            <p>Set forth to undeceive all the good People that have ſeen or read the ſaid <hi>Peter Blondeau</hi>'s falſe and ſcandalous Libells.</p>
+            <p>PRINTED for the Corporation of Moniers. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119450:2"/>
+            <pb n="1" facs="tcp:119450:2"/>
+            <head>
+               <hi>A Letter from Maſter</hi> Thomas Violet, <hi>to Maſter</hi> John Benfeild, <hi>Clearke of the Corporation of Moniers in the Tower of</hi> London.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS day came unto my hands a falſe and ſcandalous Libell put in print, againſt the Moniers and Of<g ref="char:EOLhyphen"/>ficers in the Mint; Truly, if you value your good names, and to bee eſteemed honeſt men, theſe Pam<g ref="char:EOLhyphen"/>phlets muſt have a Replie: I am privie to all the tranſaction of this buſineſſe, and know there are more lies then lines in his Libells. I was deſired by Sir <hi>James Harington</hi> and the Committee of the Mint, to attend them in the management of the tryall be<g ref="char:EOLhyphen"/>tween M. <hi>David Ramidg</hi> and this <hi>Blondeau,</hi> I never met with ſo impudent a lying fellow in my life as this frenchman is; I told the maſter of the Mint, Doctor <hi>Gourdon</hi> this day at <hi>Weſtminſter,</hi> that it was a ſhame to all the officers that ſuch a fellow ſhould be ſuffered to proceed as he did, and no legall courſe be taken with him. If this buſineſſe be looked into ſeriouſly, it ſtrikes at the reputation of greater men then any officers of the Mint (even againſt the State:) For, if what the French-man aſſerts prove true, then he ſeemes to charge the State with neglect of Juſtice up<g ref="char:EOLhyphen"/>on
+<pb n="2" facs="tcp:119450:3"/> the officers of the Mint who (without diſpute) are in a Premunire by the law of this Nation: If it prove falſe; then his deſigne is, To blaſt and diſho<g ref="char:EOLhyphen"/>nor the Common-wealth's-Mint, now in this con<g ref="char:EOLhyphen"/>juncture of time when he ſees there is likely to bee great quantities of ſilver coyned. Truly M. <hi>John Benfeild,</hi> it hath been, and is, by my meanes that your Mint now goes, otherwiſe your Irons might ſtill have continued ruſty: I am confident there is abundance of malice in blaſting and abuſing the States Mint at this time, therefore I pray make the Provoſt and the reſt of your fellowes acquainted with this Letter; I love you all ſo well, that if you deſire this Mounſieur ſhould receive an Anſwere to his Libell (as I conceive you are neceſsitated to it) I ſhall doe you the beſt ſervice I may; and doe at pre<g ref="char:EOLhyphen"/>ſent hold fit that you make your humble addreſſes to the Councell of State for liberty to repaire your Inte<g ref="char:EOLhyphen"/>grity and Honor, by the juſt rule of the Common-Law; for doubtleſſe theſe Pamphlets, diſperſt into the hands of the ignorant multitude, muſt needs poſſeſſe them, according to his ſuggeſtion, That the Parliaments money coyned in the Tower, is not ſo fine nor ſo weighty as formerly in King <hi>James</hi>'s and King <hi>Charles</hi>'s times, they not knowing how exactly the Mint is ruled, both for the Fineneſs, and juſt weight of the monies: Theſe truths appearing to a Jury (which are moſt obvious to all Artiſts &amp; divers others) doubtleſſe they will give you ample Repara<g ref="char:EOLhyphen"/>tion: All this (well known to me) I ſhall make as ap<g ref="char:EOLhyphen"/>parent to the world; as freely as formerly I have a<g ref="char:EOLhyphen"/>cted any thing for you, which was ever <hi>gratis;</hi> though to my vaſt expence both of money and time: And if I ſhall for my ſervices done receive no ſatisfaction from the State, I ſhall never expect any from any of you, but</p>
+            <closer>
+               <signed>Remaine your loving Frend THO. VIOLET.</signed> 
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 25. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="3" facs="tcp:119450:3"/>
+            <head>The Corporation of Moniers Anſwer.</head>
+            <p>
+               <hi>MAſter</hi> Tho. Violett, <hi>our Company of Moniers thanke you for your Letter dated the 25 of January 1652. Wee deſire you to bee pleaſed to give an Anſwer to</hi> Blundue <hi>the Frenchmans ſcandalous Libells con<g ref="char:EOLhyphen"/>cerning the Moniers, and on their behalfe to vindicate our juſt Cauſe to the Common-wealth, againſt thoſe ſcandalous lying pamphlets, and in ſo doing you will very much obliege your ve<g ref="char:EOLhyphen"/>ry loving freinds, and ſervants.</hi>
+            </p>
+            <list>
+               <item>Symon Corbet. <hi>Prov</hi>
+               </item>
+               <item>Michaell Garnett.</item>
+               <item>John Benfeild.</item>
+               <item>Henry Perin.</item>
+               <item>Daniell Benfeild.</item>
+               <item>Walter Taylor.</item>
+               <item>Ric. Warner.</item>
+               <item>John Taverner.</item>
+               <item>Abram Hunt.</item>
+               <item>David Rammag.</item>
+               <item>John Warner.</item>
+               <item>Nathan Marſh.</item>
+               <item>Simon Corbitt.</item>
+               <item>Garnett Corbit.</item>
+               <item>Vall. Nicholſon.</item>
+               <item>Hen. Lewis.</item>
+               <item>John Butterfield.</item>
+               <item>Edmond Dawſon.</item>
+               <item>Nic. Hares.</item>
+               <item>John Shoute.</item>
+               <item>William Dawſon.</item>
+               <item>Robert Gaſcoyne.</item>
+               <item>George Taverner.</item>
+               <item>Richard Johnſon.</item>
+               <item>Stephen Holton.</item>
+               <item>Edward Heward.</item>
+               <item>James Boone.</item>
+               <item>Richard Sternell.</item>
+            </list>
+            <p>
+               <hi>Sir, here are all our fellowes that are at preſent in the Mint, But the reſt (being in the Country) ſhall give you hearty thanks and ever acknowledg themſelves bound unto you for your favor and great pains in this particular, to our Corporation, in ſta<g ref="char:EOLhyphen"/>ting the whol proceedings in this buſineſſe to the World which we had for ſeverall dayes before the right honorable</hi> The Committee of Councell of State for the Mint, <hi>you attending that buſineſſe by Order of the ſaid Committee.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>John Benfeild</hi> Clearke.</signed>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 27. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="report">
+            <pb n="4" facs="tcp:119450:4"/>
+            <head>
+               <hi>The humble Repreſentation of</hi> Peter Blondeau, <hi>as a War<g ref="char:EOLhyphen"/>ning, touching ſeverall diſorders happening by Monie ill<g ref="char:EOLhyphen"/>favoredly Coined, and the only meanes to prevent them.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Coin which is unequall in big<g ref="char:EOLhyphen"/>neſs and unhandſomly don, is eaſi<g ref="char:EOLhyphen"/>ly clipped, and not perceived to be ſo: Moſt part of that which is cur<g ref="char:EOLhyphen"/>rant now is clipped, and will bee yet more and more; and your Honors will perceiv what wrong it doth to the State and Publick, when you ſhall go about to remedy it; Such a man ſhall have a 100l. ſterl. in ſo manie pieces, who yet will finde but 70 or 80 by the weight; and the longer you defer the re<g ref="char:EOLhyphen"/>medie, the worſ the diſeaſ will bee, as it was ſeen in <hi>France,</hi> when almoſt half was loſt upon the Coin. That diſorder is grown to ſuch a height, that even in that Mint, as things are now carried there, they do coin the monie with ſuch inequalitie in the weight, that I can exhibit ſom ſhillings which weigh not full five pence, and others that weigh near upon eighteen pence, and have been ſo coined. And that is the cauſ why ſom men do pick out the heavieſt pieces to tranſ<g ref="char:EOLhyphen"/>port out of the Land, and do give ſom what <hi>per cent.</hi> to cull out the heavieſt Coine from among the reſt. And I have been informed that ſom Officers &amp; Workmen of the Mint have followed that way, as ſom of them have even confeſſed before the Committee for the Mint: and that was the cauſ why they made it ſo unequal, not onely on pretence for a quicker expedi<g ref="char:EOLhyphen"/>tion, but alſo that they might reap a double profit, to the prejudice of the Publick. Likewiſe there be ſom Goldſmiths, Refiners, Gold and Silver Wyer-drawers, and Gold-laiers, and other people, who do pick our the heavieſt coin to melt it, ſo that it remaineth onely
+<pb n="5" facs="tcp:119450:4"/> within the State for Commerce, the counterfeited, clipped or lighteſt monie.</p>
+            <p>The common people, ſpecially who do ſpend their monie little by little, when they have ſom falſ coin or light, they cannot put it out, but are forced to ſell them to their loſs to the Goldſmiths or others, and often thoſe that buie them do paſs them among o<g ref="char:EOLhyphen"/>thers, in payment of greater ſums, ſo that they return again to the people, who bear all the loſs and trouble, which is worthy of conſideration and compaſsion.</p>
+            <p>Som do anſwer, that if there be any falſ coiners or clippers of monie, they ought to bee hanged: but I ſaie, firſt they muſt bee known and taken; and yet when all is don, ſuch as have loſt by the falſ or clipped coin, are not reimburſed of their loſs.</p>
+            <p>For avoiding theſe diſorders, the monie ought to bee adjuſted piece by piece, equal in bigneſs and weight, ſo that the number requiſite bee alſo found in the pound both of gold and ſilver. And for that end it is requiſite that an Officer bee appointed in the Mint, whoſe charge bee to weigh the monie piece af<g ref="char:EOLhyphen"/>ter piece, when it is finiſhed, and in caſe hee finde's anie unequal or unhandſomly made, he might reject it, and give it to bee melted again upon the charges of the Undertaker of the Mint, thereby to oblige him to bee ſo much the more careful. And for to hinder the connivence of the Officer appointed for to weigh the ſaid pieces, who might happen to juggle with the Undertaker, another Officer ſhall bee appointed, to whom anie of the people that ſhall finde anie of the new coined pieces lighter then they ſhould be, might repair within convenient time, who ſhall change the ſaid light pieces, but ſhall give a pence more for each piece ſo brought to him as a reward to the bringer, all which ſhall bee put to account to the ſaid Officer appointed for the weighing. But that cannot bee don except the monie bee coined after my
+<pb n="6" facs="tcp:119450:5"/> way, that is, marked on both ſides, and upon the brims, elſ the Weigher might pretend it had been clipped and made light ſince it went out of his hand. And the monie being ſo coined after my way, be<g ref="char:EOLhyphen"/>ſides the removing of the aforeſaid inconveniences, it would raiſ or increaſ the Exchange by about 10 <hi>per Cent.</hi> to the advantage of this Common-wealth.</p>
+            <p>It is alſo requiſite to maintein the ſtandart or goodneſſe of the Coyn, that it be permitted to any Goldſmith, Refiner, or other whomſoever, to make eſſay of the currant monie: and in caſe it be not found of the due ſtandart or goodneſs, they ſhall be allowed to bring back to an appointed Officer the eſſaie and the reſt of the piece, to be there tried again before the Commiſsioners and the Trier of the Mint; and if it be found, that the ſaid Coyn be not of the due goodneſs, the Diſcoverer ſhall be rewarded at the charges of the Trier, that he may have a due care, that no Coin com out of his hands, but ſuch as ſhall be of a due value, and according to the order of the STATE.</p>
+         </div>
+         <div type="answer">
+            <head>
+               <hi>An anſwer to ſeveral objections formerly made againſt</hi> Peter Blondeau <hi>his waie of Coining the monie.</hi>
+            </head>
+            <p>I Have affirmed in my Propoſition, that my inven<g ref="char:EOLhyphen"/>tion will prevent the counterfeiting, moulding, clipping, or any way altering the monie, which I do yet offer to maintein and make good.</p>
+            <p>And whereas ſom men do object, that as ſoon as the waie I uſe ſhall be made publick, then it may be counterfeited. To that I anſwer, <hi>firſt,</hi> That the Inven<g ref="char:EOLhyphen"/>tion needs not to be made publick; But if it be the pleaſure of the State, the Engines wherewith the brims are marked, may be kept ſecret among few men, who ſhall be ſworn to keep it, and not to reveal it to anie. <hi>Secondly,</hi> I anſwer, That though they be made
+<pb n="7" facs="tcp:119450:5"/> publick, the Engines that are uſed therein are ſo big and heavie, being between 1 and 2000 l. weight, and ſo difficult to be made, and afore they are perfected ought to goe through ſo many hands, that the great expences requiſite thereunto, will diſſuade any one to undertake, the rich not being willing, and the poor being unable to laie out ſo much monie for an uncertain profit; beſides the hazard of being diſcover<g ref="char:EOLhyphen"/>ed by the privity of ſo many men, through whoſe hands the Engines ought to paſſe before they are ſer<g ref="char:EOLhyphen"/>viceable. Which affords me a <hi>third</hi> anſwer, That the Engines imploied being ſo great as aforeſaid, they do require a very large room, and a great number of men to work about them, &amp; conſequently no private man can undertake the ſame without being inſtantly diſ<g ref="char:EOLhyphen"/>covered. Whereas the monie that is Coined with the hammer, requiring but an hammer and two ſtamps, which can eaſily be hidden and carried in a mans pocket, it is moſt eaſie to counterfeit the ſame, and that ſecretly, yea any man that can grave can make himſelf with very little coſt whatſoever is requiſite to Coin with the hammer: all which is prevented, as aforeſaid, by my invention.</p>
+            <p>Som do replie to that, That the monie Coined by the hammer cannot be eaſily counterfeited, becauſ of the noiſ that ought to be made in the ſtamping, which doth not happen in the preſs or mill. I anſwer, That every Gun-ſmith or Lock-ſmith, or any other that makes uſe of ſom big Vice, can with two ſmal ſtamps Coin the monie in the ſaid Vice without any noiſ, by preſsing the ſame at ſeveral times: but if they were put to mark all the pieces at one ſtroke, as in the ſaid <hi>Blondeau</hi>'s invention it ought to be, then it is impoſsible to doe it without ſtrong and heavie En<g ref="char:EOLhyphen"/>gines, as aforeſaid.</p>
+            <p>Som do object that it can be moulded: but to this I return no anſwer, for it is a thing known to all un<g ref="char:EOLhyphen"/>derſtanding
+<pb n="8" facs="tcp:119450:6"/> men in the way of moulding, that it is abſolutely prevented by my invention.</p>
+            <p>To object that it can be clipped, is no leſs abſurd then to ſay, the ſun is dark, or the fire cold; and therefore I paſs over that objection, becauſ it cannot be clipped without taking away the letters or marks that are about the brim, which would eaſily bee diſcerned.</p>
+            <p>Som do object, That it can be waſhed or other<g ref="char:EOLhyphen"/>wiſe altered: To this I anſwer, That I have diligently inquired and ſtudied with great expences all the waies of waſhing, and made ſeverall experiments of them, I can boldly ſaie, I know as much therein as any man, and can waſh both gold and ſilver ſeverall waies with an extreme dexteritie, and therefore I may certainly affirm, that it is impoſsible to take ne<g ref="char:EOLhyphen"/>ver ſo little from a piece ſo coined by waſhing, but will take away its luſtre and poliſhing, and ſpoil the work, which is moſt neat and delicate, ſo that the groſſeſt man, and moſt unskilful, can eaſily perceiv, that it looks as if it had been moulded; beſides, that the ingredients that are requiſite, and the charge ne<g ref="char:EOLhyphen"/>ceſſarie to bring again together the gold or ſilver, will coſt more, or as much at leaſt, as the profit of waſh<g ref="char:EOLhyphen"/>ing may come unto; Therefore I do conclude that no bodie will undertake it.</p>
+            <p>The monie coined meerly at the Mill can bee made with very ſmall Engines, but that which is propounded by the ſaid <hi>Blondeau,</hi> cannot bee coined without a great many big and heavie Engines.</p>
+            <p>Laſtly, whereas ſom have objected that ſeveral perſons afore mee have bragged of their invention to make very handſom coyn: and yet having put the State to above 15 or 1800. l. charges, could not ſuc<g ref="char:EOLhyphen"/>ceed. For removing of that ſcruple, I do offer to make upon my own charge as many Engins and In<g ref="char:EOLhyphen"/>ſtruments as will coin weekly 1500 or 2000 l. Pro<g ref="char:EOLhyphen"/>vided
+<pb n="9" facs="tcp:119450:6"/> I may have alſo the uſe of ſuch Engines as are already made; whereby it ſhall appear that I can do what I offer.</p>
+            <p>I do not deſire to have the Bullion in my cuſtody or diſpoſal, but I will onely meddle with the work<g ref="char:EOLhyphen"/>ing of the gold and ſilver as it ſhall bee delivered un<g ref="char:EOLhyphen"/>to mee by the Melter, approved of by the Eſſayers, and put in the hands of the workmen, who ſhall bee ſuch as the State might intruſt them; and ſhall bee preferred by the Commiſsioners of the Mint, whom I ſhall teach my way of working, and ſhall reaſona<g ref="char:EOLhyphen"/>bly pay them.</p>
+            <p>Among the oppoſers of my way of coyning are the Maſter of the Mint, the Officers and the Work<g ref="char:EOLhyphen"/>men of the ſame, and their friends; as alſo ſom Gold-ſmiths and others, who ſomtimes uſe to bring Bullion into the Mint to be coyned: Som of them having told mee, that there would bee no encou<g ref="char:EOLhyphen"/>ragement for thoſe that ſhould bring their Bullion into the Mint, if it was coyned exactly equal in the weight: meaning by that encouragement the choiſ of the heavieſt pieces to melt them again, which doth bring them a very great profit<g ref="char:punc">▪</g> it beeing obſervable, that as the coyning goes now, inſtead of 62 ſhelings that are to be coyned in each pound weight of ſilver, they coyne uſually 64 or 65 ſhillings, which comes to the benefit of thoſe that bring the Bullion, and turneth to the prejudice of the Publik: And as a<g ref="char:EOLhyphen"/>foreſaid, it is that which they call the incourage<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Above two years ſince, the honorable Council of State beeing deſirous to remedie all the diſorders in the Mint, thought good I ſhould repair into <hi>England.</hi> Since that time the Officers and Workmen of the Mint have made their utmoſt endeavors to finde out my Invention, which they could not attain unto, al<g ref="char:EOLhyphen"/>though the Maſter of the Mint hath had in his hands
+<pb n="10" facs="tcp:119450:7"/> my Patterns above nine moneths together: Beſides that the workemen of the Mint intreated the Com<g ref="char:EOLhyphen"/>mittee, that I ſhould bee commanded to make a new tryal here, hoping they ſhould bee able to diſcover my ſecret; Accordingly I did it, but they could not come to their end, only they made ſom few pieces af<g ref="char:EOLhyphen"/>ter the old manner, which is not ready and expedi<g ref="char:EOLhyphen"/>tious, nor fit for the Mint, as themſelves have con<g ref="char:EOLhyphen"/>feſſed before the ſaid Committee for the Mint: And therefore a further time was granted them to indea<g ref="char:EOLhyphen"/>vor the finding out of the invention, and to make their Propoſition; But all this while they could do no other thing but to bring every day new tales to a<g ref="char:EOLhyphen"/>muſe the State.</p>
+            <p>The Maſter and ſom Officers and Workmen of the Mint, and ſom other perſons have told mee, that the State paies 14 pence for the coyning of a pound weight of ſilver, after the way hitherto uſed in the Tower, and 8 ſhillings for the pound weight of gold; and paieth beſides the graving of the Stamps.</p>
+            <p>But I do offer to make the mony after my way; <hi>viz.</hi> marked on both ſides, and upon the edg or thickneſſe of the brim, according unto the Patterns I have made here lately by Order, which are in Sir <hi>James Harington</hi>'s hands, for the ſame price of 8 ſhil<g ref="char:EOLhyphen"/>lings for the pound weight of Gold, and for 16 pence for the pound weight of Silver. The State af<g ref="char:EOLhyphen"/>fording to mee and paying likewiſe for the melting or caſting into Plate the gold and ſilver, and the gra<g ref="char:EOLhyphen"/>ving of the Stamps. And I ſhall oblige my ſelf not onely to pay the Workmen, but alſo to maintein at my own charges all the Engins and Inſtruments; to bear the charge of the ſecond melting and the waſte of the clippings: and generally all other expenſes a<g ref="char:EOLhyphen"/>bout the Coin.</p>
+         </div>
+         <div type="memorandum">
+            <pb n="11" facs="tcp:119450:7"/>
+            <head>A moſt Humble MEMORANDUM from <hi>Peter Blondeau.</hi>
+            </head>
+            <argument>
+               <p>
+                  <hi>Concerning the offers by him made to this Common-wealth for the coyning of the Monie, by a new Invention, not yet practiſed in any State of the World; the which will prevent counterfeiting, caſting, waſhing and clipping of the ſame.</hi>
+               </p>
+               <p>
+                  <hi>Which Coyn ſhall bee marked on both the flat ſides, and about the thickneſs or the edge; of a like bigneſs and largneſs, as the ordinary coyn is: and will coſt no more then the ordinarie unequall Coyn, which is uſed now.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">S</seg>Ince it hath been the pleaſure of the Par<g ref="char:EOLunhyphen"/>liament and of the Council of State, to paſs ſom Orders in relation to the preventing of the counterfeited and clipped money, now diſperſed in <hi>England, Scotland</hi> and <hi>Ireland,</hi> hee mak's bold, yet with ſubmiſsion, to preſent the fol<g ref="char:EOLhyphen"/>lowing particulars, conteining, beſides the ſaid of<g ref="char:EOLhyphen"/>fers, Firſt, the reaſon why the coyn of this Com<g ref="char:EOLhyphen"/>mon-wealth is clipped and light, ſo that few pieces are to bee found weighing their true weight; As al<g ref="char:EOLhyphen"/>ſo the reaſon why ſo much falſ coyn is now diſper<g ref="char:EOLhyphen"/>ſed. And ſecondly, the only way to remedy the ſaid inconveniences, and to ſettle a good and conſtant order in the Mint.</p>
+            <p>As to the firſt, the reaſon of the ſaid abuſes is be<g ref="char:EOLhyphen"/>cauſ the mony coyned with the hammer is ſo eaſy to bee counterfeited, and with ſo few Engines and ſo little expences, that therby the falſ coyners are en<g ref="char:EOLhyphen"/>couraged and their number increaſed. And the daily experience to this day ſhewed, that ſeldom or never
+<pb n="12" facs="tcp:119450:8"/> any falſ coyners have been diſcovered by the noiſ of the hammer.</p>
+            <p>Another reaſon is, becauſ the mony coyned with the hammer, cannot bee made exactly round, nor e<g ref="char:EOLhyphen"/>qual in weight and bigneſs, and is often grosſly marked, and hath many other faults, which giv's a great facility to the falſ Coyners to counterfeit and mould it; as alſo to the Clippers to clip it: It being very hard to diſcern between a clipped piece, and one not clipped. Beſides, abundance of coyn is made too light even at the Mint: The ſaid <hi>Blondeau</hi> him<g ref="char:EOLhyphen"/>ſelf hath received ſom ſhillings (which hee ſhewed to the Committee for the Mint) which weighed ſom five, ſom ſix, and ſom ſeven pence only; as to the contrary, hee received ſom that weighed ſeventeen, yea and eighteen pence, both of them made ſo at the Mint: Which inequality occaſions ſeveral Gold-ſmiths and others, who receiv the mony from the Mint, to cull or pick out the heavieſt pieces to melt them; and after them, others do again cull or pick out the heavieſt of them that are left, to tranſport them be<g ref="char:EOLhyphen"/>yond Seas; ſo that only the light, the falſ and the clipped monie remain's within the State, which turn's to the great ruine and deſtruction of Com<g ref="char:EOLhyphen"/>merce, and undoeth thoſe poor people, who ſpend their mony little by little; for having ſom counter<g ref="char:EOLhyphen"/>feited or clipped pieces, they cannot put them off, but are forced to ſell them, with loſs, unto the gold<g ref="char:EOLhyphen"/>ſmiths and others who can ſpend them among other monies, or trade therein, and ſell them again to the Caſh-keepers of the Treaſurers, Bankiers, Merchants and others, who make them paſs afterwards among other monies; ſo that they return again into the hands of the poor.</p>
+            <p>The reaſon why the workmen of the Mint do make the coyn thus unequal in weight, and do not keep the true weight, is becauſ it is ſooner don. Be<g ref="char:EOLhyphen"/>ſides,
+<pb n="13" facs="tcp:119450:8"/> the ſaid workmen may coyn ſometimes their own ſilver, or may treat with thoſe that bring their Bullion to be coyned, becauſ they do not render the coyn by tale, but by the pound, and ſo ſtill there be more pieces in number then there ſhould be in a pound. And the monie ſo coyned being diſtributed out of the Mint, the officers themſelves, and the workmen of the Mint do cull or pick out the hea<g ref="char:EOLhyphen"/>vieſt pieces to melt them again, as they themſelves have confeſſed before the ſaid Committee for the Mint. And that is the thing which among themſelves they call the myſtery or ſecret of the Mint, and which is the cauſ, that by themſelves and by their friends, they make uſe of all their joynt power and credit, and will lay out all their eſtate, and leav no ſtone unmooved to hinder the changing of the way of coyning the mony.</p>
+            <p>As to the way of remedying thoſe inconveniences, and ſetling a good and conſtant order in the Mint, it cannot be done but by the way propounded by the ſaid <hi>Blondeau,</hi> by marking the coyn, not only on both the flat ſides, but alſo upon the thickneſs or the edges.</p>
+            <p>The coyn made after that way, cannot be clipped without taking away the marks that are about the thickneſs, the which would be eaſily perceived. Be<g ref="char:EOLhyphen"/>ſides, the pieces will be of an equal bigneſs and largeneſs; the half-crown of the ordinary weight and bigneſs, the ſhilling and other pieces according<g ref="char:EOLhyphen"/>ly; and ſo equall among themſelves, that it will bee impoſsible to take the leſs thing from any of them, but it will ſhew leſs then the reſt, and ſo will be<g ref="char:EOLhyphen"/>come not currant. They cannot be altered by waſh<g ref="char:EOLhyphen"/>ing or any other way, but they will loſe their bigneſs and glaſs, ſo that a blindman will eaſily feel it.</p>
+            <p>The ordinarie coyn marked onely on both the flat ſides, can be moulded, as the experience do ſhew by
+<pb n="14" facs="tcp:119450:9"/> the great quantity of falſ coyn moulded, which is currant now: but when it is marked on the thick<g ref="char:EOLhyphen"/>neſs or edges, the marks about the ſaid edges can no way be moulded. And though they could, yet in that caſe they ought to be fyled after round about, ſpecially in the place where it hath been caſt, to take away the ſuperfluous metal; which fyling cannot be don without ſpoyling and taking away the ſaid marks about the edges, and conſequently made ea<g ref="char:EOLhyphen"/>ſily known not to be currant.</p>
+            <p>The monie ought to be adjuſted piece after piece, equal in weight, both Gold and Silver. And for that end, it is requiſite that an Officer be appointed in the Mint, whoſe charge ſhould be to weigh the monie piece after piece when it is finiſhed; and in caſe he findes any piece unequal or unhandſomly made, he ought to reject it and give it to be melted again, upon the charges of the undertaker of the Mint, thereby to oblige him to be ſo much the more careful. And for to hinder the connivence of the Officer appointed to weigh the ſaid pieces, who might happen to juggle with the Undertaker; ano<g ref="char:EOLhyphen"/>ther Officer may be appointed, to whom any of the people that ſhall finde any of the new coyned pieces lighter then it ſhould be, might repair within a con<g ref="char:EOLhyphen"/>venient time, who ſhall change the ſaid light pieces, all which ſhall be put to account to the ſaid Officer appointed for the weighing: But that cannot be don except the monie bee coyned after the ſaid <hi>Peter Blondeau</hi>'s way, that is, marked on both ſides, and upon the edges; elſ the Weigher might pretend it had been clipped and made light ſince it went out of his hand. And the monie being coyned after the ſaid way, beſides the hindring or removing the a<g ref="char:EOLhyphen"/>foreſaid inconveniences, it will raiſ or encreaſ the Exchange by about ten <hi>per centum,</hi> to the advantage of this Common-wealth.</p>
+            <pb n="15" facs="tcp:119450:9"/>
+            <p>It is alſo requiſite, to maintein the ſtandard or goodneſs of the coyn, that any Goldſmith, Refiner, or other whomſoever be permitted to make eſſay of the currant monie; and in caſe it be not found of the ſtandard or goodneſs, they might be allowed to bring back to an appointed Officer, the eſſay and the reſt of the pieces by them tried, to be there tried a<g ref="char:EOLhyphen"/>gain before the Commiſsioners, and the Trier of the Mint; and if it be found that the ſaid coyn be not of the due goodneſs, the diſcoverer ſhall be rewarded at the charges of the Trier, that he may have a due care, that no coyn comes out of the Mint but ſuch as ſhall be of a due value, and according to the or<g ref="char:EOLhyphen"/>der of the State.</p>
+            <p>The Council of State being willing to prevent the ſaid diſorders, was deſirous to have the monie of this Common-wealth well coyned; and therefore ha<g ref="char:EOLhyphen"/>ving ſeen the patterns of coyn made after a new In<g ref="char:EOLhyphen"/>vention by the ſaid <hi>Blondeau,</hi> and having treated by Letters about the quantitie of pieces that could be coyned in a week, and what they might coſt; the ſaid Council cauſed the ſaid <hi>Blondeau,</hi> the Inventor of that way of coyning, to come to <hi>London,</hi> to treat with him by word of mouth, and to agree about the price of coyning the money of this Common-wealth after his way. He being then arrived at <hi>London</hi> the 3. of <hi>Septemb.</hi> 1649. the ſaid Council beſtowed on him 40. l. ſterling, and the late Mr. <hi>Froſt,</hi> then Secretary to the ſaid Council, told him before witneſſes, that if the State could not agree with him about the price, and that therefore he ſhould be neceſsitated to retire himſelf, the State would indamnifie him for his jour<g ref="char:EOLhyphen"/>nie, both coming and returning, and for the time he ſhould have loſt, and would beſtow on him ſuch a preſent, that he would return ſatisfied. A while after the ſaid Council of State ordered the Committee of the Council of State for the Mint to hear the ſaid
+<pb n="16" facs="tcp:119450:10"/> 
+               <hi>Blondeau</hi>'s Propoſition, and report it to the ſaid Council.</p>
+            <p>The Committee for the Mint accordingly took into conſideration, whether the ſaid <hi>Blondeau</hi> ſhould be admitted to coyn the monie of this Common<g ref="char:EOLhyphen"/>wealth; and having debated it, they reſolved and approoved that he ſhould be admitted thereunto, provided his coyn and his Propoſition ſhould be ad<g ref="char:EOLhyphen"/>vantagious to the State.</p>
+            <p>Afterwards the ſaid Committee having ſeriouſly conſidered and examined all the circumſtances of the way of coyning propounded by the ſaid <hi>Blondeau,</hi> and having heard all the objections that could be alledg<g ref="char:EOLhyphen"/>ed againſt it, both by the Maſter, Officers and Work<g ref="char:EOLhyphen"/>men of the Mint, or by any other of thoſe who ap<g ref="char:EOLhyphen"/>peared in the buſineſs; upon debate of the whole, the ſaid Committee concluded and Voted, that the ſaid way of coyning propounded by the ſaid <hi>Blon<g ref="char:EOLhyphen"/>deau,</hi> was better, more advantagious and more ho<g ref="char:EOLhyphen"/>norable for the State, then that which is uſed now in this Common-wealth.</p>
+            <p>The Maſter, the Officers and the workmen of the Mint told the Committee, it was not likely the ſaid <hi>Blondeau</hi> had don himſelf, the pieces ſent by him to the Council of State. Beſides, that it was an old In<g ref="char:EOLhyphen"/>vention, which they knew themſelvs, and that ſuch pieces were onely made for curioſity, with very long time and great expence, and that it was impoſsible, that that way might bee uſed about the ordinary coyn, which is thin. They deſired that the ſaid <hi>Blon<g ref="char:EOLhyphen"/>deau</hi> might bee commanded to make a trial of his skill by making ſom other pieces, and that they would do as much as the ſaid <hi>Blondeau.</hi> Therefore the ſaid Committee ordered both the ſaid <hi>Blondeau</hi> and the ſaid workmen to make their patterns and propoſiti<g ref="char:EOLhyphen"/>ons reſpectively; and that hee that would make it with moſt advantage to the State, ſhould have the Imployment.</p>
+            <pb n="17" facs="tcp:119450:10"/>
+            <p>At the time appointed the workmen brought to the Committee ſom pieces made after the old way, which is known to them, and ſom big pieces of ſil<g ref="char:EOLhyphen"/>ver ſtuffed within with copper; but they had drawn on Propoſitions.</p>
+            <p>Likewiſe the ſaid <hi>Blondeau</hi> brought in about 300 pieces, ſom half-crowns of the ordinary weight and bigneſs, ſom ſhillings, ſixpences, and ſom Gold pieces, and preſented his Propoſition, which having been reformed according to the pleaſure of the ſaid Committee, it was received and accepted of by the whol Committee, who ordered it to bee reported to the Council of State, according to the order of the ſaid Council.</p>
+            <p>The ſaid Co<g ref="char:cmbAbbrStroke">̄</g>mittee having then taken into conſide<g ref="char:EOLhyphen"/>ration the big pieces of Silver at the outſide, and ſtuf<g ref="char:EOLhyphen"/>fed within with copper (made with the Engins that are at the Tower) and well underſtood that the ſaid pieces, becauſ they are made of ſeveral pieces at the top one of another, will give no ſound, ſo that a blinde man can eaſily diſcern that they are falſ; and having weighed the long time and great coſt requi<g ref="char:EOLhyphen"/>red for coyning of each piece; becauſ they are made of 4 pieces, namely one of copper and one of ſilver, at the top, another underneath and one about, the which ought to bee adjuſted and ſodered together, beſides ſeveral other faſhions, which coſt more then the price of the lawful pieces; having alſo conſidered the great and heavie Engins, and great number of tools and of men required for making of one piece, the great charges for the Engins and tools and ſeveral other things required for making of thoſe counterfei<g ref="char:EOLhyphen"/>ted pieces, they acknowledged that it would bee e<g ref="char:EOLhyphen"/>nough to diſſwade any one from undertaking it; the rich not beeing willing, and the poor beeing unable, and that though they ſhould undertake it they could not do it without beeing diſcovered. Beſides, that
+<pb n="18" facs="tcp:119450:11"/> the mony coyned after the way of the ſaid <hi>Blondeau,</hi> was ſo thin, that it cannot bee ſo counterfeited.</p>
+            <p>Whereupon it is obſervable, that the ſaid work<g ref="char:EOLhyphen"/>men of the Mint, although they made uſe of the great and heavie Engins, that are in the Tower, yet for making of ſom Tools they had need of, and for the other charges of coyning about a dozen of pieces, they made then for a pattern, have ſpent 100 l. ſt. as hee that pretends to have laid out the money hath ſaid before witneſſes.</p>
+            <p>Afterwards, another Order was given by the ſaid Committee, and ſom time limited to the ſaid work<g ref="char:EOLhyphen"/>men, to draw and preſent their Propoſition for coyning of the monie marked upon the thickneſs or edge, as that of the ſaid <hi>Blondeau</hi> is; But after the exſpiration of the long time demanded by them, they brought ſuch a Propoſition, that the ſaid Com<g ref="char:EOLhyphen"/>mittee having read it over and over, could not un<g ref="char:EOLhyphen"/>derſtand it, nor the ſenſ of it; and even thoſe that brought it could not explain it; whereby it was ap<g ref="char:EOLhyphen"/>parent to the ſaid Committee, that they were not a<g ref="char:EOLhyphen"/>ble to make their Propoſition good, much leſs to coyn the mony after that way; which they avowed themſelves before the ſaid Committee. Yet they in<g ref="char:EOLhyphen"/>treated the Committee to allow them the time of ſom months more to finde, if poſsible, the new inventi<g ref="char:EOLhyphen"/>on, and that the ſaid <hi>Blondeau</hi>'s Propoſition ſhould bee communicated unto them, upon which they might frame their own. They further demanded that the ſaid <hi>Blondeau</hi> and the Graver, ſhould have order to bring in all the pieces made by the ſaid <hi>Blondeau</hi> for a tryal, with the ſtamps or dices uſed for making of them: All which was granted them, upon that condition, that if within the time allowed them, they could finde out the means to coyn the monie after the ſaid <hi>Blondeau</hi>'s way, and that thereupon he ſhould be ſent back, he ſhould be indamnified,
+<pb n="19" facs="tcp:119450:11"/> which was agreed by all. But they could never finde out the ſaid new Invention for coyning the thin and weak pieces after that way with expedition requi<g ref="char:EOLhyphen"/>ſite. Yet for all that, they made their Propoſitions, which are in the hands of the Chair-man of the Committee, as are alſo the ſaid <hi>Blondeau</hi>'s Propoſiti<g ref="char:EOLhyphen"/>on and patterns, about a year and a half ſince, to be reported by him to the Council of State.</p>
+            <p>The Workmen of the Mint have given to under<g ref="char:EOLhyphen"/>ſtand that they are 200 poor families, which are maintained by the work of the Mint; which is be<g ref="char:EOLhyphen"/>ſides truth. For ſom Officers of the Mint have told before witneſſes, that formerly their Corporation was at the moſt of 40 Maſters, and that at this time they are hardly 30 Maſters, who are all rich, have lands or houſes, and other waies of maintenance, without the work of the Mint. And that when they had much monie to coyn, they were wonted to hire ſom journie-men, giving to ſom 18 pence, to ſom 15 to ſom 12 for half a dayes work. Beſides, in caſe the State admits of the ſaid <hi>Blondeau</hi> to coyn the monie after his way, and the workmen be willing to work after the ſaid way, he will oblige himſelf to teach them and pay them a reaſonable price.</p>
+            <p>The ſaid <hi>Blondeau</hi> doth not intend to have the Gold nor the Silver in his cuſtodie, but onely the charge of working the ſame, by ſuch perſons as the State ſhall be pleaſed to admit thereunto.</p>
+            <p>He ſhall not have the power to admit any one to the work of the Mint, without the conſent and ap<g ref="char:EOLhyphen"/>probation of the State.</p>
+            <p>Nor will not have the keeping of the dices or ſtamps, but they ſhall be intruſted in the hands of ſuch as the State ſhall admit to work.</p>
+            <p>In a word he doth generally ſubmit to whatſoever the State ſhall think reaſonable. Onely he prays to conſider, that</p>
+            <p n="1">
+               <pb n="20" facs="tcp:119450:12"/>1. The exact equalitie that will be effected by this waie and invention of the ſaid <hi>Blondeau,</hi> will hinder and avoid all the known corrupt Practices about coyning.</p>
+            <p n="2">2. The charge of the State concerning the ſame, conſidering all circumſtances, will be leſs then in the old way; and the honor of this Common-wealth much the greater, in having their monies coyned in perfection, above, or beyond any other State now known.</p>
+            <p n="3">3. The ſaid <hi>Blondeau</hi> came to <hi>London</hi> about 3 years and a half ſince, and hath no other imployment here, but to attend the pleaſure of the State.</p>
+            <floatingText xml:lang="eng" type="warrant">
+               <body>
+                  <head>VVhite-Hall the 14. <hi>June</hi> 1651.</head>
+                  <opener>
+                     <salute>Mr. DAVID RAMADGE,</salute>
+                  </opener>
+                  <p>
+                     <hi>THeſe are to authorize you, to make ſome patterns as broad as a ſhilling, a half-crown, a twenty ſhillings peece of gold, in a mill; and if you can doe it with letters about the edge, or other wayes, according to Queen</hi> Eli<g ref="char:EOLhyphen"/>zabeths <hi>patterns of mill-money, or any other modells or peeces you are to make, That ſo the Committee of the Mint may ſee your ſeverall peeces, and thereupon conſider what is fitteſt to preſent to the Councell of State, for the more handſome making of the monies for the honor of this Common-Wealth.</hi>
+                  </p>
+                  <closer>
+                     <signed>James Harington.</signed>
+                     <signed>Tho. Chaloner.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>IN obedience to this Warrant from the aboveſaid Right honorable Gentlemen of the <hi>Committee for removing the Obſtructions of the Mint; David Rammage,</hi> our fellow monier, (by order of our whol Corpora<g ref="char:EOLhyphen"/>tion of Moniers) did make his Trial of skill, who ſhould beſt work a Patern or Modell, according to
+<pb n="21" facs="tcp:119450:12"/> the warrant aforeſaid, whether wee the Corporation of Moniers, or the ſaid <hi>Peter Blondeau.</hi>
+            </p>
+            <p>And whereas the ſaid <hi>Peter Blondeau</hi> had falſly af<g ref="char:EOLhyphen"/>firmed to many people, That his ſeverall pieces of coyn preſented by him to the Committee for the Mint no man in the world could make the like but himſelf; <hi>David Rammage,</hi> at the requeſt of our Cor<g ref="char:EOLhyphen"/>poration, did make ſeverall Peeces and Modells with<g ref="char:EOLhyphen"/>in the Mint of the Tower of <hi>London</hi> more exactly with Letters about the edg, then any peeces which <hi>Peter Blondeau</hi> preſented to the Committee, which Peeces are ſtill remayning to bee ſeen and judged in the hands of the right honorable Sir <hi>James Harrington</hi> Chair-man of that Committee; And whereas <hi>Blon<g ref="char:EOLhyphen"/>deau</hi> the french man vapored and ſtood ſo much up<g ref="char:EOLhyphen"/>on the gloſs and tincture of his Monies, <hi>viz.</hi> half<g ref="char:EOLhyphen"/>crowns, ſhillings and ſixpences, which the ſaid <hi>Pe<g ref="char:EOLhyphen"/>ter Blondeau</hi> did falſly and traiterouſly make out of the Mint, of the juſt weight and motto of the <hi>Common<g ref="char:EOLhyphen"/>wealths</hi> money, contrary to the Lawes and Statutes of this Nation, having fraudulently ſilvered over the ſaid Plates with fine ſilver to abuſe ignorant people; the ſaid cheat was diſcovered by the moſt knowing and right honorable gentlemen Maſter <hi>Allen,</hi> and Maſter <hi>Cornelius Holland,</hi> formerly Warden of the States Mint, and both of them now of the Councel of State; and at that very time wee made it our moſt humble Requeſt to the right honorable the Commit<g ref="char:EOLhyphen"/>tee of the Mint to take notice, That the ſaid <hi>Pet. Blon<g ref="char:EOLhyphen"/>deau</hi> had committed Treaſon, in traiterouſly making half-crown peeces, ſhillings and ſix-pences of the coin of the <hi>Common-wealth</hi> of <hi>England,</hi> in a private houſe in the <hi>Strand,</hi> contrary to the lawes and ſtatutes of this Nation, out of the Mint, not having an Act of Par<g ref="char:EOLhyphen"/>liament or a Co<g ref="char:cmbAbbrStroke">̄</g>miſsion under the great ſeale of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to do it; for which fact the ſaid <hi>Peter Blondeau</hi> ought to ſuffer as a Traytor by being hanged drawn
+<pb n="22" facs="tcp:119450:13"/> and quartered: Whereupon the right honorable the Committee of the Mint preſently ſent Meſsengers and ſeized on all the ſaid <hi>Peter Blondeaus</hi> Inſtruments and Tooles, in the <hi>Strand,</hi> and ſent them to the <hi>Tower,</hi> where they remaine at this day, in ſafe cuſtody, with us in the Mint.</p>
+            <p>
+               <hi>Now followeth the ſeverall Proceedings before the hono<g ref="char:EOLhyphen"/>rable Committee for the Mint,</hi> viz.</p>
+         </div>
+         <div type="proposition">
+            <head>To the right Honorable Sir <hi>James Harring<g ref="char:EOLhyphen"/>ton,</hi> one of the Councell of State, Chair<g ref="char:EOLhyphen"/>man for the Committee of the Mint.</head>
+            <argument>
+               <p>The humble Propoſition of the Provoſt and Moniers of the States Mint in the Tower of <hi>London.</hi>
+               </p>
+            </argument>
+            <p n="1">1. THat whereas ſome people deſire to have the monies made by the mill for the fu<g ref="char:EOLhyphen"/>ture, and that your Honors did bid <hi>David Rammage,</hi> one of our fellowes, to ſet down the loweſt rate that we could aford to make the monies of gold and ſilver of this Common-wealth, as fair and beau<g ref="char:EOLhyphen"/>tifull as the preſent Lewis and Cardeques, and all o<g ref="char:EOLhyphen"/>ther coynes of the French Nation are at this day made.</p>
+            <p n="2">2. Whereas we have 9. d. <hi>per</hi> pound weight <hi>Troy,</hi> for working the preſent monie by the hammer, Wee doe undertake, for our ſelves and our Company, to make fair mill-monie for 12. d. the pound weight <hi>Troy,</hi> and to make it as fair as any monies currant in Chriſtendome.</p>
+            <p n="3">3. Whereas we have 2. s. 5. d. for the making of one pound weight <hi>Troy</hi> of gold, and the State hath 15. s. for the coynage; We will undertake for our
+<pb n="23" facs="tcp:119450:13"/> Company, to make fair mill-gold, as fair as the gold coynes in <hi>France</hi> for 5. s. the pound weight, if it be the States pleaſure that they will have it ſo made.</p>
+            <p n="4">4. That whereas we are an antient Corporation and Company, ſetled by charter for many hundred yeares, and in all ages faithfully diſcharged our truſt, and never any blot lay upon us eyther for emba<g ref="char:EOLhyphen"/>ſing the coynes, or for not accompting to the State for every grain of gold and ſilver that ever came un<g ref="char:EOLhyphen"/>der our charge; Wee do humbly hope to have ſo much Juſtice that wee ſhall ſtill bee imployed in the ſervice of the State, in regard it is the livelyhood and ſubſiſtence of above two hundred Families, when the Mint is full of work, and in regard wee under<g ref="char:EOLhyphen"/>take to do it as exactly as any French-man in the world, and at a cheaper price then the French man hath offered, and you may be aſſured that we ſhall diſcharge all or any truſt that ſhall be put into our hands, by the juſt dealing you have in all ages recei<g ref="char:EOLhyphen"/>ved from us.</p>
+            <p>Wee having ſince this Parliament many times in our own cuſtody two or three hundred thouſand pounds, and have accompted for it to a penny, to the State.</p>
+            <p>Sir, we value the keeping of our Reputation in this point, as much as we doe our lives; &amp; therfore hum<g ref="char:EOLhyphen"/>bly hope our fidelitie and ſufficiencie to doe what we undertake, ſhall not be put into the ſcale with a French-man, wee being willing and deſirous to put it to the tryall between <hi>David Rammage</hi> our fellow Monier and the French man, if the State pleaſe to command us.</p>
+            <closer>
+               <signed>Symon Corbet, Michael Garnet, Tho. Brooke, John Benfeild, Henry Perryn, Hen. Rowe, Richard John<g ref="char:EOLhyphen"/>ſon, Will. Dawſon, Will. Tavernor, Tho. Younge, David Rammage, John Corbett, Walter Taylor, Nath. Marſh.</signed>
+               <dateline>
+                  <date>28. Febr. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="report">
+            <pb n="24" facs="tcp:119450:14"/>
+            <p>THe eight of <hi>May</hi> 1651. The right Honorable the Committee for the Mint did order us the Moniers to make our tryall the States Arms as upon 20. s. piece, the motto about the edges, <hi>Truth and Peace;</hi> the ſame in ſilver for a half crown, the mot<g ref="char:EOLhyphen"/>to about the edges, <hi>Truth and Peace,</hi> and ſome of the ſame peeces to have a graining about the edges with<g ref="char:EOLhyphen"/>out motto, and to preſent them the third of <hi>July</hi> 1651. to the right Honorable Sir <hi>James Harrington,</hi> being Chair-man for that Committee. In obedience to this order, wee the Provoſt and Moniers were at about ſixty pounds charge in the making the tryall, for which we are humble ſuitors for our ſatisfaction, and the ſaid peeces remain in the cuſtody of the Honora<g ref="char:EOLhyphen"/>ble Committee of the Mint; And we humbly leave it to the judgement of the Honorable Committee, whether the letters about the edges of gold and ſilver peeces, preſented for and in the behalf of us the Provoſt and Moniers of the Mint, did not farr ex<g ref="char:EOLhyphen"/>ceed the Frenchmans; (the peeces are ſtill to be ſeen.) And before any determination of what the State would conclude on; <hi>Peter Blondeau</hi> a French man hath diſperſed a falſe and ſcandalous Paper both at <hi>Weſtminſter</hi> and at the Exchange in <hi>London</hi> and be<g ref="char:EOLhyphen"/>yond Seas, in diſhonor of the monies of the Nation; and charging the Officers and Moniers of the Mint with making monie contrary to their Indenture; a charge ſo falſe and ſcandalous, that hath inforced us the Provoſt and Moniers to reprint the ſaid <hi>Blondeau</hi>'s Paper, and to give a ſhort anſwer to the untruths and abſurdities in it: And we humbly ſubmit what we ſay to all Artiſts and knowing men in Mint bu<g ref="char:EOLhyphen"/>ſineſſe, whether the French man hath not declared in his printed Paper a great many untruths, with a great deal of impudence and ignorance. And we moſt humbly deſire what we here ſay, to have the truth of it examined by the right Honorable the
+<pb n="25" facs="tcp:119450:14"/> Committee for the Mint, and that their Honours would be pleaſed to give us ſuch reparation as ſhall be by their great wiſdomes thought fit, And it ſhall oblige us ever to pray for their Honors, if they will give us leave to vindicate our ſelves in ſuch a way as is agreeable to the Common-Law of this Nation.</p>
+         </div>
+         <div type="answer">
+            <head>
+               <hi>The Provoſt and Moniers Anſwere to the Objections of</hi> Peter Blondeau <hi>is,</hi>
+            </head>
+            <p>THat the Monies made by the Moniers are upon their delivery out of their Office view<g ref="char:EOLhyphen"/>ed by the Warden, Maſter-worker and the Controler and the Aſſay-maſter, and both weighed, aſſayed for weight and fineneſs of all the monies, and examined by them, and ſeverall peeces taken out of every journey of ſilver, which is 30. l. weight, and a journey of gold 15. l. weight, which peeces are put into a Box ſealed with ſeverall Seales, commonly called the Pix-Box, and formerly once every yeare, and now, when the State pleaſe, examined both in the ſay and fineneſs and in the weight, that it all bee made equall; and this is done upon the oaths of twenty foure men, that are Artiſts; (formerly in the Star-chamber) And if the moneys do not fall out to bee good and juſt, both in fineneſs and weight, then wee and all the Officers of the Mint are in a <hi>premunire.</hi> And this tryal hath ever been held; and (under favor of our ſuperiors) wee humbly conceive, is the ſtri<g ref="char:EOLhyphen"/>cteſt and exacteſt of any Mint in Chriſtendome. And wee do with all humility juſtify and affirm the mony of gold and ſilver delivered out of the Tower of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the moſt exact for the weight and fineneſs in the world. And of the truth of this, for the honour of ſterling moneys of <hi>England,</hi> all the great Merchants both Engliſh and Strangers of <hi>London</hi> can certify
+<pb n="26" facs="tcp:119450:15"/> what wee ſay to the <hi>State,</hi> in this particular, to bee true.</p>
+            <p>That it is true, much clipped Engliſh moneys are paſsed in payment, which hath much encreaſed ſi<g ref="char:EOLhyphen"/>thence theſe wars, which if there were a Law to have it cut in peices, the abuſes practiſed by ſome men would for the future bee prevented. And whereas much light moneys paſs abroad, and the weightieſt is melted, this comes not through any fault of the moniers, for they are bound to make all their mo<g ref="char:EOLhyphen"/>neyes at ſixty two ſhillings the pound weight, with the remedy of 6. d. the pound weight under or over. Now when ſterling ſylver is as it hath been at 3. l. 3. s. the pound <hi>Troy,</hi> ſome people wee conceive have mel<g ref="char:EOLhyphen"/>ted down the currant coynes of this Nation; which ought ſtrictly to bee prevented; For if the Market will give more for ſilver then the monie is coyned at in the Tower, till that bee prevented, and the Lawes revived againſt it, and to ſet the price of ſil<g ref="char:EOLhyphen"/>ver, as it is in other countries, as you may ſee in Mr. <hi>Thomas Violet</hi>'s book, the rule for all the great Mints in Chriſtendome, not to exceed their Mints: While this be done the monies will be culled and weighed, and the Mint will bee obſtructed; for if the State allowe the Mint to give but three pounds for ſterling the pound weight Troy, and no more, and to coyn it and deliver ſterling in money at three pounds two ſhillings the pound weight Troy, and there ſhall be a market amongſt ſeverall people in this Nation that will give three pound foure ſhillings, and three pound three ſhillings, and three pound two ſhil<g ref="char:EOLhyphen"/>lings ſix pence ſterling, the Mint will not bee ſet on worke, but alſo your owne current coyne will bee culled and melted, as wee humbly conceive hath beene, and ſo the ſtock of this Nation will bee wa<g ref="char:EOLhyphen"/>ſted and decayed. And this abuſe comes not by the unevenneſs of the coyning of the money, as this
+<pb n="27" facs="tcp:119450:15"/> moſt ignorant fellow <hi>Peter Blondeau</hi> affirmes, but by the unevenneſs of the raiſing of the price of ſiluer for particular mens gains, to the dammage of publique; and this is the true reaſon why the Mint doth not go, and is humbly preſented by us to the honorable Committee of the Mint, to rectifie.</p>
+            <p>There is one great and ſcandalous falſhood by <hi>Peter Blondeau</hi> charged upon the moniers of the Mint, That whereas we ought by our Indenture to coyn the monie at ſixty two ſhillings the pound, we coyn it at ſixty four ſhillings or ſixty five ſhillings, And this is that the Goldſmiths and other Traders into the Mint call their encouragement, as <hi>Blondeau</hi> in his Paper doth falſly allege.</p>
+            <p>Truly this ſheweth the ignorance and impudence of <hi>Blondeau:</hi> He may have skill in making a Jack for a Kitchin, but none in Mint buſineſſe. We have ſer<g ref="char:EOLhyphen"/>ved the State from our infancy, and every year had our tryalls made in the ſtricteſt manner before the Lords of the Councell, and upon the oath of a Jury of twenty four men, cleared every year in the Star-Chamber; And in the compaſſe of five years, for this Parliament, coyned this Common-wealth about ſix millions of ſilver from 1640. to 1645. And upon our tryalls afore ſeverall Committees of Parliament, by a Jury of Artiſts, all cleared, That our monie was good according to our Indenture, both for the weight and fineneſſe, and we have cleared our ac<g ref="char:EOLhyphen"/>compt to a penny for about twenty five millions to the State within thirty years; which we humbly hope the right Honorable Committee of the Mint will conſider, and value us at ſuch a rate, as, under favour, our juſt dealing hath deſerved.</p>
+            <p>Whereas <hi>Blondeau</hi> ſaith, That the Officers and Workmen of the Mint have made their uttermoſt en<g ref="char:EOLhyphen"/>deavors to finde out this Invention, which they could not attain unto, and every day brought new
+<pb n="28" facs="tcp:119450:16"/> tales to amuſe the State, and made ſome few pieces after the old manner, and doth boldly and traiterouſ<g ref="char:EOLhyphen"/>ly affirm, he the ſaid <hi>Blondeau</hi> can waſh both gold and ſilver ſeverall wayes with great dexterity; And that he hath diligently ſtudied, with great expences, the wayes of waſhing coyn.</p>
+            <p>Truly we the Provoſt and Moniers of the Mint wonder at his impudence that he dares ſay ſo, know<g ref="char:EOLhyphen"/>ing how penall the Law is in <hi>England,</hi> brag of ſuch a Miſtery, that in all Countries to put it in practiſe is death: It may be for that reaſon of his skill, in waſh<g ref="char:EOLhyphen"/>ing coynes, <hi>Peter Blondeau</hi> run out of <hi>France</hi> into <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> If he confeſſe he ſtudied this rare Art to waſh coyn with extream dexterity, and made ſeverall ex<g ref="char:EOLhyphen"/>periments in <hi>England,</hi> by his own confeſsion: Then we humbly ſay, he is fitter for <hi>Newgate</hi> then to be imployed in the Mint of this Nation.</p>
+            <p>We are humble ſuitors to the Honorable Com<g ref="char:EOLhyphen"/>mittee of the Mint, for to take theſe our humble Pro<g ref="char:EOLhyphen"/>poſitions into conſideration. We have made the monies both gold and ſilver with letters about the edge; And the letters about the edges of the peeces we made, are more fair and exacter then <hi>Blondeau</hi>'s peeces. <hi>Blondeau</hi> by his firſt Propoſition to the Coun<g ref="char:EOLhyphen"/>cell of State did demand fourteen ſhillings the pound weight for gold, and twenty pence the pound weight for ſilver. Our patterns are in the right Ho<g ref="char:EOLhyphen"/>norable Sir <hi>James Harrington</hi>'s hands. We have deli<g ref="char:EOLhyphen"/>vered in ſeverall patterns of coyns with a double graining, and to be exactly rounded; which we can afford for ten pence the pound weight ſilver, and three ſhillings the pound weight gold by the way of the hammer; And we have delivered in a Propoſi<g ref="char:EOLhyphen"/>tion, to bear all charges, ſaving for coyning Irons, at fourteen pence for ſilver, and four ſhillings for gold, by the hammer.</p>
+            <p>We are humble ſuitors to the right Honorable the
+<pb n="29" facs="tcp:119450:16"/> Committee of the Mint, That their Honours would ſpeedily enquire out the obſtructions of the Mint, provide remedies by good Lawes, and imploy ſuch in truſt as have skill and will to finde out the offen<g ref="char:EOLhyphen"/>ders; If this bee done the Mint will flouriſh again, and till this bee done, in all humility wee ſay, the State will have little or no ſilver or gold coyned in the Mint; If men can make more of it to ſell it to tranſport then to make it in coyne, experience ſhews private men will diſpoſe of their gold and ſilver at their beſt market, for their privat profits, though it bee to the loſſe of the Common-wealth. All which wee, with all humility, ſubmit to the right honora<g ref="char:EOLhyphen"/>ble the Committee of the Mint, to ſettle ſuch rules in the Mint as may bee moſt advantageous for the Nation. <hi>And wee ſhall pray, &amp;c. 18 Novemb.</hi> 1651.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Symon Corbet.</hi> Prov.</item>
+                     <item>
+                        <hi>John Benfeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Perrin.</hi>
+                     </item>
+                     <item>
+                        <hi>John Warner.</hi>
+                     </item>
+                     <item>
+                        <hi>David Rammage.</hi>
+                     </item>
+                     <item>
+                        <hi>John Corbet.</hi>
+                     </item>
+                     <item>
+                        <hi>Abram Hunt.</hi>
+                     </item>
+                     <item>
+                        <hi>Vall. Nicholſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaniel Marſh.</hi>
+                     </item>
+                     <item>
+                        <hi>William Taverner.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Taylor.</hi>
+                     </item>
+                     <item>
+                        <hi>William Maynard.</hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Colman.</hi>
+                     </item>
+                     <item>
+                        <hi>Symon Corbet</hi> Jun.</item>
+                     <item>
+                        <hi>Daniel Benfeild.</hi>
+                     </item>
+                     <item>
+                        <hi>John Butterfild.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Hawerd.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Garnett.</hi>
+                     </item>
+                     <item>
+                        <hi>William Shanbrooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Johnſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Michael Garnet.</hi>
+                     </item>
+                     <item>
+                        <hi>John Pollard.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Gaſcoyne.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Sanders.</hi>
+                     </item>
+                     <item>
+                        <hi>James Boone.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Young.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Collard.</hi>
+                     </item>
+                     <item>
+                        <hi>George Collard.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Ruſſell.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Brooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Nicholls.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Lewis.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Dawſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Steven Hauton.</hi>
+                     </item>
+                     <item>
+                        <hi>John Weatherly.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Rome.</hi>
+                     </item>
+                     <item>
+                        <hi>Tobias Maynard.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="report">
+            <pb n="30" facs="tcp:119450:17"/>
+            <p>THIS is a true and perfect accompt of every dayes proceedings before the right honorable <hi>the Committee of the Councell of State,</hi> as will appeare by our originall Papers left in the hands of the right honorable ſir <hi>James Harington,</hi> chair-man for the Committee of the Mint. Since which time, that is to ſay, about the moneth of <hi>January</hi> 1652. the before named <hi>Peter Blondeau,</hi> ſeeing he eſcaped ſo long with<g ref="char:EOLhyphen"/>out puniſhment, and without our calling him to a legall accompt, both for his firſt libell and for his counterfeiting of ſhillings, ſixpences and half<g ref="char:EOLhyphen"/>crowns which the ſaid <hi>Peter Blondeau</hi> falſly and trai<g ref="char:EOLhyphen"/>terouſly cauſed to be made at a private houſe in the <hi>Strand,</hi> contrary to the known Laws and Statutes of this Nation, not having a Commiſsion under the Great Seal of <hi>England:</hi> For which offences wee hum<g ref="char:EOLhyphen"/>bly deſire the State, that we may file an Inditement againſt the ſaid <hi>Peter Blondeau;</hi> or that we may have the ſaid <hi>Peter Blondeau</hi> to run the gauntlet once about the Mint; where if he ever could run it twice we would give him leave to libell againſt us all the dayes of his life after: Or that we may have leave to commence our ſuit at the common Law againſt the ſaid <hi>Blondeau</hi> for both his libells. This laſt libell of his which appeared to the world in <hi>January</hi> 1652 be<g ref="char:EOLhyphen"/>ing the moſt impudent nonſenſe and lies that ever was printed in Engliſh, is almoſt all anſwered by what hath been ſaid before; yet ſomthing muſt be ſaid.</p>
+            <p>We begin with <hi>Blondeau</hi>'s firſt reaſon of the abuſes in the Mint. He ſayth it is by reaſon the monie is coyned by the hammer, that thereby the falſe Coyners are incouraged and their number in<g ref="char:EOLhyphen"/>creaſed; whereas we will make infallible proof, that if the State make their monie in a mill, we will make ſuch an Engine that a Porter ſhall carrie it about the ſtreets under his arm, and coyn monie as he goes
+<pb n="31" facs="tcp:119450:17"/> along, and no body ſhall hear him. And we muſt put in remembrance <hi>Peter Blondeau</hi> what became of the Coyner that made mill-monie in Queen <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> time: The Queen and her Councell liked very well the way of making mill-monie within her Mint in the Tower of <hi>London:</hi> But when ſhe knew, and had it proved, that this Mounſieur that coyned her mill-monie in the Mint, did alſo at the ſame time counterfeit and make mill-monie out of the Mint, all his friends in Court could not ſave him, though he had many, as <hi>Blondeau</hi> may have; but according to the ſtrict rules of the Laws of this Na<g ref="char:EOLhyphen"/>tion, he was condemned to death, and did ſuffer ex<g ref="char:EOLhyphen"/>ecution as a falſe traytor, by being hanged, drawn and quartered, and his quarters parboyled. Good mounſieur <hi>Peter Blondeau,</hi> if you ſhould be ſo ſerved your french carkaſs would make more Ramiſh broth then a Goat: Have a care, for you will come under the conſultation of your twelve God-fathers for what you have done already.</p>
+            <p>2. The next falſe and ſcandalous lie is, That the ſaid <hi>Peter Blondeau</hi> himſelf hath received ſome ſhil<g ref="char:EOLhyphen"/>lings which weighed ſome five pence, ſome ſix pence and ſome ſeven pence onely. We ſay that may very well be; for thoſe that hide can finde: He hath counterfeited the currant monie of this Nation. And by his own confeſsion, That <hi>he hath diligently in<g ref="char:EOLhyphen"/>quired and ſtudied, with great expences, all the wayes of waſh<g ref="char:EOLhyphen"/>ing of coynes, and made ſeverall experiences of them, he the ſaid</hi> Peter Blondeau <hi>can boldly ſay, he knowes as much therein as any man, and can waſh both gold and ſilver ſeve<g ref="char:EOLhyphen"/>rall wayes with an extream dexterity.</hi> Theſe are <hi>Peter Blon<g ref="char:EOLhyphen"/>deau</hi>'s own words: A gallant character for the great<g ref="char:EOLhyphen"/>eſt vilain and traitorly falſe Coyner in the world: He cannot take up a higher title of being a perfect Rogue, then this <hi>Peter Blondeau</hi> hath taken upon him<g ref="char:EOLhyphen"/>ſelf in his own printed Papers: And if he will doe
+<pb n="32" facs="tcp:119450:18"/> the favour to ſhew us any ſuch five pennie, ſix pen<g ref="char:EOLhyphen"/>nie or ſeven pennie ſhillings, we will lay him in <hi>Newgate</hi> till he diſcover the Coyners; for we diſclaim ever making any ſuch monie: We doe not know what <hi>Peter Blondeau</hi> hath done where he hath coun<g ref="char:EOLhyphen"/>terfeited monie in the <hi>Strand:</hi> he may as lawfully make light ſhillings there as weighty. And that's our anſwer to this falſe ſcandall.</p>
+            <p>Thirdly, Wee further ſay, If any Goldſmith furniſh to tranſport, money, either gold or ſilver, cull and adulterate the money, as no doubt but ſom daily do, it is a ſhame that a Law for the diſcovery and pu<g ref="char:EOLhyphen"/>niſhing of them is not paſſed the houſe of Parliament Wee are ſure of it that there was a certificate ſome years paſt to the Parliament and Councell of State, under the hands of Maſter St. <hi>Johns</hi> warden of the Mint, Sir <hi>Robert Harlow</hi> ma<g ref="char:EOLhyphen"/>ſter worker, and maſter <hi>Cogan</hi> Controler, 20 <hi>Decem.</hi> 1652. after ſeveral daies conſideration, preſented to the honorable Committee of the Navie; and then our head officers could do no more, it was not in their power to make the Law, they could but inform the Parliament as wee now do. Wee underſtand the Bill hath been twice read in the Houſe, and is kept as yet from being made an Act; if it were paſſed the Houſe, the deceits and knaveries of ſome Merchants, gold-ſmiths and others, would come to the view of the world, the Mint in the Tower of <hi>London</hi> would flouriſh, and tranſporting Treaſure would bee ſtop<g ref="char:EOLhyphen"/>ped; and till this Act bee paſſed, the ſtock of Treaſure in this Nation will bee waſted, and inſenſibly de<g ref="char:EOLhyphen"/>ſtroyed. Wee could ſay more, but refer you to a Letter in this booke that ſets forth all the abuſes and dammages the Common-wealth ſuffers by tranſport<g ref="char:EOLhyphen"/>ing and culling gold and ſilver. Wee humbly deſire that after 13 yeares ſoliciting the Parliament, this good Act may paſſe the Houſe, the Nation hath loſt
+<pb n="33" facs="tcp:119450:18"/> millions of Treaſure in not paſsing this Act, wee know what wee ſay to bee true, and ſome ought to bee called to an account for hindring it ſo long.</p>
+         </div>
+         <div type="certification">
+            <head>
+               <hi>The Officers of the Mint in the Tower of</hi> London, <hi>whoſe names are hereunder written, in purſuance of the directions of the Honorable Committee of the Navie, in relation to their Order dated the third of</hi> December <hi>preſent, do hum<g ref="char:EOLhyphen"/>bly conceive, and Certify as followeth.</hi>
+            </head>
+            <p>THat to prevent great abuſes practiſed upon the coyn and bullion of the Nation, which is tranſported out of the Nation; as alſo to pre<g ref="char:EOLhyphen"/>vent the culling and melting down the currant Mo<g ref="char:EOLhyphen"/>ny of the Nation, and for the diſcovering of ſuch as have offended, to bee brought to Juſtice, to deter o<g ref="char:EOLhyphen"/>thers from acting the like abuſes for the future, do humbly conceive,</p>
+            <p>That according to the Preſident of the 14 <hi>Rich. 2. cap.</hi> 12. a Commiſsion bee granted to make inquiry through the Realm, of ſuch as had conveied the mo<g ref="char:EOLhyphen"/>nies of <hi>England</hi> out of the Nation, and to make en<g ref="char:EOLhyphen"/>quirie after all ſuch as melt and cull out the heavie currant monie, contrarie to the Statute of the 4 <hi>Hen. 4. cap.</hi> 10. none to melt the currant ſilver coyns of the Nation, upon pain of forfeiture four times the value.</p>
+            <p>That 2 <hi>Hen. 6. cap.</hi> 12. It is ordeined, that neither the Maſter-worker of the Mint, nor the Changer for the time being, neither ſell nor cauſe to be ſold, nor alien to no other uſe; but apply the ſame wholly to coyn according to the tenor of the Indenture of the Mint, made between the Kings Majeſtie and the Mint, to declare by Ordinance, That what Gold-ſmith or Changer ſhall buy gold or ſilver, and convert it to any uſe to tranſport, ſhall forfeit the value.</p>
+            <p>To declare by Ordinance, that according to the 5 and 6 <hi>Edw. 6. cap.</hi> 19. an Act touching the exchange
+<pb n="34" facs="tcp:119450:19"/> of gold and ſilver, That whoſoever gives more for gold and ſilver then it is or ſhall be declared, ſhall ſuffer Impriſonment by the ſpace of a year, and make fine at the pleaſure of the State. The Mint cannot be imployed, nor the tranſporting treaſure ſtopped, if ſome courſe be not ſpeedily taken to diſcover theſe great abuſes. And already, almoſt all the gold is tranſported out of the Nation, and the ſilver follow<g ref="char:EOLhyphen"/>eth it apace, as is prudently inſiſted upon in the late Petition of the Citizens of <hi>London</hi> to both houſes of Parliament.</p>
+            <p>Wee humbly conceiv, that the making of this diſcovery throughout the Nation, of ſuch as have, or ſhall tranſport gold and ſilver into parts beyond the Seas, and of ſuch as have or ſhall melt down the currant gold and ſilver coyns of the Nation; or have, or ſhall buy gold and ſilver at above the price of the Mint: (the practiſe of which abuſes, if not timely prevented, is likely to bring ſpeedy deſtruction to the Trade of this Kingdom; which is preſidented <hi>anno 4 Rich. 2. c.</hi> 2. when the Nation found the ſame miſchief as we now ſuffer under, by tranſporting of treaſure. And <hi>anno</hi> 5 and 6 <hi>Edw. 6. cap.</hi> 19. by giving for gold and ſilver above the price of the Mint.) As it will be a ſervice of great im<g ref="char:EOLhyphen"/>portance to the Publick affairs, and bring great ad<g ref="char:EOLhyphen"/>vantage to the Trade of this Nation, ſo it will draw with it a very great charge. Which if Maſter <hi>Watkins</hi> will undertake, he will deſerve highly to be encouraged: nevertheleſs, we humbly ſubmit the premiſſes to the Wiſdoms of this Honorable Committee.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John S<hi rend="sup">t</hi>. John,</hi> Warden.</item>
+                     <item>
+                        <hi>Robert Harlow,</hi> Maſter.</item>
+                     <item>
+                        <hi>Henrie Cogan,</hi> Comptr.</item>
+                  </list>
+               </signed>
+               <dateline>
+                  <date>December 20. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="report">
+            <pb n="35" facs="tcp:119450:19"/>
+            <p>Fourthly, the ſaid <hi>Peter Blondeau</hi> hath charged us that wee the moniers of the Mint may ſomtimes coyne our own ſilver, or may treat with thoſe that bring their bullion to be coyned, and ſo make more peeces in number then there ſhould bee in a pound, and that the workmen of the Mint do cull and pick out the heavieſt peeces to melt again, as themſelves have confeſſed before the ſaid Co<g ref="char:cmbAbbrStroke">̄</g>mittee of the Mint, and that is the thing which amongſt themſelves they call the miſtery or ſecret of the Mint.</p>
+            <p>To this wee ſay, maſter <hi>Peter Blondeau,</hi> you will gallop ſo faſt that in the end wee beleeve you will knock your head againſt the gallowes; Wee do all of us joyntly and ſeverally ſay, That never any of us, the corporation of moniers, ever coyned any of our own monies eyther gold or ſilver, or ever had any treaty with any manner of perſon either Merchants or Goldſmiths that ever brought in gold or ſilver into the Mint, to make more peeces in number then there ought or ſhould bee in the pound weight, according to the ſtrict rules of our Indenture, &amp; we do appeal to all the Gold-ſmiths, and others now living, who have been yearely of the Jury for the tryal of the Pickes of the moneys both gold or ſilver, in the Star-chamber, whether ever we were charged, or any of the ſaid Jury ever imagined upon any one or all their tryalls of the monies of this nation, that ſuch things were ever acted or done by us the Moniers of the Mint, or any one of us; and we are all ſeverally ready to depoſe every one for himſelf, that ſuch things never entred into the heart or imagination of any of us, to act or doe, much leſſe for any one of us, to confeſſe before the right Honorable the Committee of the Mint, that ever any ſuch vilanie was ever done or acted by any of our fellow Moniers. And we moſt humbly deſire the right Honorable Committee for the Mint, or any one of them, to give either all of us, or any
+<pb n="36" facs="tcp:119450:20"/> one of us a charge (if this which <hi>Peter Blondeau</hi> the french man ſaith we confeſſed before the Co<g ref="char:cmbAbbrStroke">̄</g>mittee to be true) if the ſaid right honorable Committee clear us; then we humblie deſire, we may have li<g ref="char:EOLhyphen"/>berty to commence our ſuit at Common Law againſt this <hi>Peter Blondeau,</hi> and wee make no queſtion, but a Jury will give us full reparation.</p>
+            <p>Fifthly, Whereas <hi>Peter Blondeau</hi> ſaith, The monie ought to be ajuſted peece by peece when it is finiſh<g ref="char:EOLhyphen"/>ed: This ignorant fellow ought to know every jour<g ref="char:EOLhyphen"/>ny of gold and ſilver is examined by the ſworn Offi<g ref="char:EOLhyphen"/>cers, the Warden, the Maſter, the Controler, the Aſſay-Maſter, &amp; out of every journy of gold or ſilver, there are ſeverall peeces taken and put into the pix box for a years tryall; and the monie both gold and ſilver both for fineneſs and weight exactly tryed to ſee that it be according to our Indenture before the monie either gold or ſilver is payed forth to the ſubjects; And that this is true all people that ever traded in the Mint know; and it is the moſt perfect and ex<g ref="char:EOLhyphen"/>acteſt tryall of any Mint in Chriſtendom: And this we doe juſtifie to all the world to be a certain truth.</p>
+            <p>Sixthly, That whereas the ſaid <hi>Peter Blondeau</hi> ſaith, That he made ſome three hundred peeces, ſome half crowns of the ordinary weight and bigneſs, ſome ſhillings, ſix pences, and ſome gold peeces, and pre<g ref="char:EOLhyphen"/>ſented his Propoſition, which having been reformed according to the pleaſure of the Committee, it was received and accepted of by the whole Committee, who ordered it to be reported to the Councell of State:</p>
+            <p>We anſwer, that we never knew any ſuch order, nor never heard any of the right honorable Committee ſay ſo much as the ſaid <hi>Blondeau</hi> falſly affirms; But at the ſame time, upon our humble Petition of ſetting forth the treaſonable action of the ſaid <hi>Peter Blondeau</hi> in preſuming traiterouſly to coyn the currant monies
+<pb n="37" facs="tcp:119450:20"/> of the Nation in a private houſe in the <hi>Strand,</hi> the ſaid Committee ordered preſently, That all his coyn<g ref="char:EOLhyphen"/>ing tools and irons then remaning in the <hi>Strand,</hi> ſhould be preſently ſecured and ſeized, and ſent into the Mint in the Tower; which was done according<g ref="char:EOLhyphen"/>ly, and there they remain at this day. We humblie deſire as aforeſaid, to have leave to indict the ſaid <hi>Peter Blondeau,</hi> as we have formerly ſaid, for his trea<g ref="char:EOLhyphen"/>ſonable coyning of monie out of the Mint, he not having an act of Parliament or Commiſsion under the great ſeal of <hi>England</hi> for the doing of the ſame.</p>
+            <p>Seventhly, whereas the ſaid <hi>Blondeau</hi> hath printed, That for the making of ſome tooles for the coyning of about one dozen peeces for a pattern, they have put the State to one hundred pound ſterling charge; Wee anſwere, That wee followed the ſtrict Letter of our Warrant from the honorable Committee of the Mint, both for the motto and weight; and though wee preſented but a dozen peeces, yet with thoſe tooles wee made (if commanded) wee can print ma<g ref="char:EOLhyphen"/>ny thouſands, and for truth of the premiſſes view our Accompt following atteſted under our hands.</p>
+            <p>
+               <hi>The Accompt of the Moniers of the Commonwealths Mint, upon the tryall with</hi> Peter Blondeau <hi>the Frenchman, about the making of Monies in</hi> July, Auguſt <hi>and</hi> September, <hi>one thouſand ſix hundred fifty one.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Inprimis</hi> in fitting of tooles and inſtruments for the work</cell>
+                     <cell>50. l.</cell>
+                     <cell>o. s.</cell>
+                     <cell>o. d.</cell>
+                  </row>
+                  <row>
+                     <cell>In Gold and Silver for making of the tryall</cell>
+                     <cell>11.</cell>
+                     <cell>04.</cell>
+                     <cell>03.</cell>
+                  </row>
+                  <row>
+                     <cell>Expended by the Moniers at ſe<g ref="char:EOLunhyphen"/>verall times, when they wai<g ref="char:EOLhyphen"/>ted upon the Committee of the Mint in the tryall</cell>
+                     <cell>26.</cell>
+                     <cell>14.</cell>
+                     <cell>02.</cell>
+                  </row>
+                  <row>
+                     <cell>In all</cell>
+                     <cell>87.</cell>
+                     <cell>18.</cell>
+                     <cell>05.</cell>
+                  </row>
+                  <pb n="38" facs="tcp:119450:21"/>
+                  <row>
+                     <cell>And the honorable Commit<g ref="char:EOLhyphen"/>tee for the Mint promiſed the Moniers for their exact working of the ſilver mo<g ref="char:EOLhyphen"/>nie, after ſix moneths, for the ſilver a penny upon the pound weight, which coms to</cell>
+                     <cell>12. l</cell>
+                     <cell>16.</cell>
+                     <cell>s. 7. d.</cell>
+                  </row>
+                  <row>
+                     <cell>And for gold ſix pence upon the pound weight, which comes to</cell>
+                     <cell>06.</cell>
+                     <cell>09.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>totall</cell>
+                     <cell>107.</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="petition">
+            <opener>
+               <salute>
+                  <hi>Mr.</hi> THO. VIOLET,</salute>
+            </opener>
+            <p>WEE doe deſire you on behalf of the Moniers to prefer our petition to the right honorable the Committee for the Mint, for allowance for our tryall with the frenchman, and for an allowance for a pennie in the pound weight for ſilver, and ſix pence in the pound weight for gold, as their Honors promiſed us after ſix moneths, and in ſo doing you will very much ob<g ref="char:EOLhyphen"/>lige your very loving friends to ſerve you;</p>
+            <closer>
+               <dateline>
+                  <date>the 8. of Decemb. 1652.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Symon Corbet.</item>
+                     <item>John Benfeild.</item>
+                     <item>Val. Nicholſon.</item>
+                     <item>Richard Johnſon.</item>
+                     <item>Walter Taylor.</item>
+                     <item>Henry Perrin.</item>
+                     <item>Robert Grave.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="report">
+            <p>Eightly, Whereas <hi>Peter Blondeau</hi> ſaith, That the Committee having read over all our Propoſitions, could not underſtand them or the ſenſe of them; and even thoſe that brought them could not explain them; whereby it was apparent we were not able to make our Propoſitions good. To anſwer this great untruth, we are now neceſsitated to print all the Pa<g ref="char:EOLhyphen"/>pers we humblie preſented to the right honorable Committee, and leave it to the world to judge; and
+<pb n="39" facs="tcp:119450:21"/> we with all humility humbly leave it to the right ho<g ref="char:EOLhyphen"/>norable Sir <hi>James Harrington</hi> the Chair-man of the Committee, to examine whether he had not all theſe Papers now printed, delivered unto him according to the ſeverall dates put down by us the Corporation of Moniers in the States Mint, about two years ſince.</p>
+            <p>Ninthly, Whereas <hi>Peter Blondeau</hi> ſaith, That our Corporation is now but of thirty Fellowes or Ma<g ref="char:EOLhyphen"/>ſters, who are all rich and have lands or houſes and other waies of maintenance without the work of the Mint; and when the State hath much monie to coyn they were wont to hire ſome journy-men at 18. d. 15. d. and 12. d. for half a dayes work. To anſwer to this great untruth, Wee can ſpeak it with a great deal of grief, that almoſt twenty of our Fellows are fallen to ſo great decay, that both themſelves and families are brought to great diſtreſs and poverty for want of imployment in the Mint, they all of them having been bound Apprentices for the leaſt ſeven years to this Trade, and having no other calling or way to get their living but only upon the miſtery and way of making of monies: many of them that are fellow Moniers having no other ſubſiſtence then what we of the Corporation amongſt our ſelves col<g ref="char:EOLhyphen"/>lect for them, to keep them from ſtarving: And that this is true, we can produce hundreds of witneſſes; and many of us finde it to our inſupportable charge, we thinking our ſelves bound in conſcience not to ſee any of our fellow Moniers periſh for want of food and clothes.</p>
+            <p>Here follows the true liſt of Fellows and Work<g ref="char:EOLhyphen"/>men and Laborers imployed in the Mint 27. <hi>Jan.</hi> 1652. and ſome times we imploy four times as many Laborers, <hi>viz.</hi>
+            </p>
+            <list>
+               <pb n="40" facs="tcp:119450:22"/>
+               <head>The names of the fellow-Moniers belonging to the Common-Wealth of <hi>Englands</hi> Mint, in the Tower of <hi>London,</hi> the 27. <hi>January</hi> 1652.</head>
+               <item>1 <hi>Symon Corbet</hi> Provoſt.</item>
+               <item>2 <hi>Tho. Robinſon</hi> ſenior.</item>
+               <item>3 <hi>Mich. Garnet.</hi>
+               </item>
+               <item>4 <hi>Tho. Brookes</hi> ſen.</item>
+               <item>5 <hi>Tho. Garnet.</hi>
+               </item>
+               <item>6 <hi>John Benfeild.</hi>
+               </item>
+               <item>7 <hi>Henry Lewis.</hi>
+               </item>
+               <item>8 <hi>John Pollard.</hi>
+               </item>
+               <item>9 <hi>John Butterfeild.</hi>
+               </item>
+               <item>10 <hi>Andrew Coleman.</hi>
+               </item>
+               <item>11 <hi>Chr. Wilſon,</hi>
+               </item>
+               <item>12 <hi>Nic. Harris.</hi>
+               </item>
+               <item>13 <hi>John Shoncke.</hi>
+               </item>
+               <item>14 <hi>Edw. Dawſon.</hi>
+               </item>
+               <item>15 <hi>Hen. Rowe.</hi>
+               </item>
+               <item>16 <hi>Hen. Perrin.</hi>
+               </item>
+               <item>17 <hi>Valen. Nicholſon.</hi>
+               </item>
+               <item>18 <hi>Stephen Hawten.</hi>
+               </item>
+               <item>19 <hi>Wm. Dawſon.</hi>
+               </item>
+               <item>20 <hi>Gabriel Benfeild</hi>
+               </item>
+               <item>21 <hi>Tho. Robinſon</hi> jun.</item>
+               <item>22 <hi>Rich. Nichols.</hi>
+               </item>
+               <item>23 <hi>Edw. Maynard.</hi>
+               </item>
+               <item>24 <hi>Rich. Collard.</hi>
+               </item>
+               <item>25 <hi>Robert Gaſcoign.</hi>
+               </item>
+               <item>26 <hi>James Clay.</hi>
+               </item>
+               <item>27 <hi>John Weatherly.</hi>
+               </item>
+               <item>28 <hi>John Warner.</hi>
+               </item>
+               <item>29 <hi>Ja. Boone.</hi>
+               </item>
+               <item>30 <hi>Wm. Taverner.</hi>
+               </item>
+               <item>31 <hi>Wm. Shambrooke.</hi>
+               </item>
+               <item>32 <hi>Tho. Young.</hi>
+               </item>
+               <item>33 <hi>Rich. Johnſon.</hi>
+               </item>
+               <item>34 <hi>Walter Taylor.</hi>
+               </item>
+               <item>35 <hi>John Corbet.</hi>
+               </item>
+               <item>36 <hi>Edw. Heward.</hi>
+               </item>
+               <item>37 <hi>Geo. Taverner.</hi>
+               </item>
+               <item>38 <hi>Garnet Corbet.</hi>
+               </item>
+               <item>39 <hi>Nathaniel Marſh.</hi>
+               </item>
+               <item>40 <hi>Wm. Serby.</hi>
+               </item>
+               <pb n="41" facs="tcp:119450:22"/>
+               <item>41 <hi>Joſeph Sanders.</hi>
+               </item>
+               <item>42 <hi>Wm. Maynard.</hi>
+               </item>
+               <item>43 <hi>Robert Graves.</hi>
+               </item>
+               <item>44 <hi>David Ramage.</hi>
+               </item>
+               <item>45 <hi>Edw. Worldly.</hi>
+               </item>
+               <item>46 <hi>Symon Corbet</hi> Jun.</item>
+               <item>47 <hi>Geo. Callard.</hi>
+               </item>
+               <item>48 <hi>Daniel Robinſon.</hi>
+               </item>
+               <item>49 <hi>Daniel Benſeild.</hi>
+               </item>
+               <item>50 <hi>Rob. Aſpe.</hi>
+               </item>
+               <item>51 <hi>Abram Hunt.</hi>
+               </item>
+               <item>52 <hi>Wm. Younge.</hi>
+               </item>
+               <item>53 <hi>Toby Maynard.</hi>
+               </item>
+               <item>54 <hi>Tho. Brooks</hi> Jun.</item>
+               <item>55 <hi>Tho. Ruſſell.</hi>
+               </item>
+               <item>56 <hi>Tho. Anderſon.</hi>
+               </item>
+               <item>57 <hi>Rich. Warner.</hi>
+               </item>
+               <item>58 <hi>Rich. Sternell.</hi>
+               </item>
+               <item>59 <hi>John Taverner.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="40" facs="tcp:119450:22"/>
+               <head>The names of the Labo<g ref="char:EOLhyphen"/>rers belonging to the Co<g ref="char:cmbAbbrStroke">̄</g>mon-wealths Mint in the Tower of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the 27. <hi>Jan.</hi> 1652. and at work, and all in the Moniers pay.</head>
+               <item>1 <hi>Nicholas Muriel.</hi>
+               </item>
+               <item>2 <hi>John Mathewes.</hi>
+               </item>
+               <item>3 <hi>Jo. Lucke.</hi>
+               </item>
+               <item>4 <hi>Wm. Smyth.</hi>
+               </item>
+               <item>5 <hi>Jo. Prince.</hi>
+               </item>
+               <item>6 <hi>Ja. Sparks.</hi>
+               </item>
+               <item>7 <hi>Rob. Baldwin.</hi>
+               </item>
+               <item>8 <hi>Ja. Bernald.</hi>
+               </item>
+               <item>9 <hi>Tho. Fulham.</hi>
+               </item>
+               <item>10 <hi>Jeffry Tedſell.</hi>
+               </item>
+               <item>11 <hi>Henry Freeman.</hi>
+               </item>
+               <item>12 <hi>Samuell Freeman.</hi>
+               </item>
+               <item>13 <hi>Robert Watts.</hi>
+               </item>
+               <item>14 <hi>Geo. Ellet.</hi>
+               </item>
+               <item>15 <hi>Edw. Thede.</hi>
+               </item>
+               <item>16 <hi>Hen. Peacocke.</hi>
+               </item>
+               <item>17 <hi>Joſeph Rowland.</hi>
+               </item>
+               <item>18 <hi>Edw. Aires.</hi>
+               </item>
+               <item>19 <hi>Iſaac Taylor.</hi>
+               </item>
+               <item>20 <hi>Philip Anderkin.</hi>
+               </item>
+               <item>21 <hi>John Feild.</hi>
+               </item>
+               <item>22 <hi>Wm. Gunn.</hi>
+               </item>
+               <item>23 <hi>John Gable.</hi>
+               </item>
+               <item>24 <hi>Edw. Jones.</hi>
+               </item>
+               <item>25 <hi>Tho. Browne.</hi>
+               </item>
+               <item>26 <hi>Jo. Langly.</hi>
+               </item>
+               <item>27 <hi>Fran. Cave.</hi>
+               </item>
+               <item>28 <hi>Wm. Page.</hi>
+               </item>
+               <item>29 <hi>Tho. Emes.</hi>
+               </item>
+               <item>30 <hi>Tho. Blunt.</hi>
+               </item>
+               <item>31 <hi>Wm. Eaſt.</hi>
+               </item>
+               <item>32 <hi>John Pookey.</hi>
+               </item>
+               <item>33 <hi>John Michell.</hi>
+               </item>
+               <item>34 <hi>John Ramzy.</hi>
+               </item>
+               <item>35 <hi>Wm. Ludlow.</hi>
+               </item>
+               <item>36 <hi>Tho. Horton.</hi>
+               </item>
+               <item>37 <hi>Rich. Hopkins.</hi>
+               </item>
+               <item>38 <hi>Rob. Wilkinſon.</hi>
+               </item>
+               <item>39 <hi>Wm. Pryce.</hi>
+               </item>
+               <item>40 <hi>John Shelley.</hi>
+               </item>
+               <pb n="41" facs="tcp:119450:22"/>
+               <item>41 <hi>Tho. Floyd.</hi>
+               </item>
+               <item>42 <hi>Wm. Blaygrave.</hi>
+               </item>
+               <item>43 <hi>Rich. Cletherwell.</hi>
+               </item>
+               <item>44 <hi>Rob. Cave.</hi>
+               </item>
+               <item>45 <hi>Wm. Hazelwood.</hi>
+               </item>
+               <item>46 <hi>Edw. Darby.</hi>
+               </item>
+               <item>47 <hi>Fran. White.</hi>
+               </item>
+               <item>48 <hi>Rob. Finch.</hi>
+               </item>
+               <item>49 <hi>Tho. Collumer.</hi>
+               </item>
+               <item>50 <hi>Wm. Atkins.</hi>
+               </item>
+               <item>51 <hi>Wm. Hall.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
